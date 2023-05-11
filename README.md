@@ -2,4 +2,9 @@
 
 Same logic as other symbol finder code.
 
-It has more symbols and not just math, it has special pys., special keyboard and special math symbols.
+It has more symbol dictionaries:
+
+1-Pyhs symbols
+2-Special math symbols
+3-Normal math symbols
+4-Hard to find keyboard shortcuts symbols (inside the math dic.)
